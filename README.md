@@ -12,7 +12,7 @@
 
 ## Screenshot & Performance
 
-![anime](https://user-images.githubusercontent.com/67934444/219564716-c7ef3f30-df6c-4e78-bcce-be263b0cd9ed.png)
+![anime](https://github.com/MahmoudSaber1/anime_vault/blob/master/public/Screenshot%202023-11-25%20180350.png)
 
 ### 🏠 [Live-Demo](https://anime.mhouses.net/)
 
